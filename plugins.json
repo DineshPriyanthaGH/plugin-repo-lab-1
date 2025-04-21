@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
+    "name": "21CIS0200 Plugin",
+    "entry": "./plugins/21CIS0200-plugin/plugin.js"
   }
 ]
